@@ -1,0 +1,5 @@
+procreative_behat_in_symfony:
+    resource: "@ProcreativeBehatInSymfonyBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
